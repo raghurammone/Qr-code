@@ -1,0 +1,21 @@
+body{
+    align-items: center;
+    background-color: #D2E9E9;
+}
+
+
+
+
+
+
+
+.qr{
+    width:300px;
+    align-items: center;
+    margin:150px 500px 0;
+}
+.hh{
+    width:300px;
+    padding:0 500px;
+    text-align: center;
+}
